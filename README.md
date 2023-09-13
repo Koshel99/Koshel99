@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-    icon_pack = "fa"
-    link = "//linkedin.com/in/yasminakoshel"
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/yasminakoshel/)
 
 - 🔭 I’m currently working on ...
