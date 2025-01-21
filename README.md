@@ -10,10 +10,7 @@
 
 ---
 
-### 🎓 **Education & Courses:**  
-- **BA in Advertisement and Marketing Communications** (First-Class Honours)  
-  *University of Huddersfield, UK* | 2013 – 2017  
-
+### 🎓 **Education & Courses:**   
 - **Software Engineering Immersive Course** (Ongoing)  
   *General Assembly, Bahrain* | Sep 2024 – May 2025  
   Learning full-stack development with **JavaScript**, **React**, **Node.js**, and more.  
@@ -21,6 +18,9 @@
 - **Data Analytics Immersive Course** (Completed)  
   *General Assembly, Bahrain* | Jul 2023 – Sep 2023  
   Focused on data analysis, **SQL**, **Python**, **Tableau**, and **Power BI**.
+
+- **BA in Advertisement and Marketing Communications** (First-Class Honours)  
+  *University of Huddersfield, UK* | 2013 – 2017 
 
 ---
 
