@@ -25,7 +25,7 @@
 ---
 
 ### **What I'm Up To:**  
-- 💻 **Building Projects:** Combining marketing expertise with **SQL**, **Tableau**, and **Python**.  
+- 💻 **Building Projects:** Combining marketing expertise with data analytics tools like SQL, Tableau, Python, Power BI, and Excel.  
 - 🔍 **Investigating Data:** Identifying trends and driving decision-making through analysis.  
 - 📚 **Expanding Skills:** Continuing my **Software Engineering** journey at **General Assembly**.
 
