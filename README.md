@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmina%20Abuhendi-blue?logo=LinkedIn&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/yasminakoshel/)  
 
-## 🚀 Marketing Strategist | Data Analytics Enthusiast | Investigator of Patterns  
+## 🚀 Marketing Strategist | Data-Driven Decision Maker | Insightful Analyst  
 
 🌟 **About Me**  
 🔍 A marketing professional with a passion for uncovering insights in data and crafting strategies that drive impactful results. I bring over 6 years of experience in media, PR, and campaigns, while exploring how technology can transform marketing strategies.  
